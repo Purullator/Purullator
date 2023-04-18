@@ -1,4 +1,5 @@
- Hello there 👋
+ Welcome, I'm Oriol Purull 👋
+ 
 - 🌱 I’m currently learning HTML, CSS, JS, React, NodeJs, PHP, MYSQL
 - 👯 I’m looking to FULL STACK DEVELOPMENT, BACKEND DEV
 - ⚡ Focused on PHP, Laravel, and React.
