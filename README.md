@@ -1,5 +1,7 @@
 <h1>Welcome, I'm Oriol Purull 👋<h4>
  
+ Passionate about Web Development.
+ 
  #### How to reach & connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriol-purull-urrea-23a447115/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purullator)
 
