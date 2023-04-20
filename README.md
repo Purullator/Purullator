@@ -10,6 +10,8 @@
 - #### ⚡ Focused on mastering ![PHP](https://camo.githubusercontent.com/3c040aa18d607ddc45e3c4347869771ac398a8bb1296ffe531d6c9bd0ceaeac7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5048502d3737374242343f7374796c653d666c61742d737175617265266c6f676f3d706870266c6f676f436f6c6f723d7768697465) 🢂 ![Laravel](https://camo.githubusercontent.com/227eb8171dec7b88bf5d97ae9174217a89e2bd1cb6d49d08f1c0450a9befc932/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c61726176656c2d4646324432303f7374796c653d666c61742d737175617265266c6f676f3d6c61726176656c266c6f676f436f6c6f723d7768697465) and ![REACT](https://camo.githubusercontent.com/13bfd8bb672356ec6ff4364c7200a938d69a56b0b12298438da359129e22e951/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3345414141463f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
  - #### 👯 I’m looking to FULL STACK DEVELOPMENT, BACKEND DEV
 - #### ⚡ Some Apps that I developed : https://forkify-purull.netlify.app | https://mapty-app-purull.netlify.app | https://banksiteapp-purull.netlify.app | https://demoappreact-purull.netlify.app/
+<hr>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purullator&show_icons=true&theme=transparent&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purullator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
