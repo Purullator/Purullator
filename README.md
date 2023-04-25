@@ -1,8 +1,7 @@
 <h1>Welcome, I'm Oriol Purull 👋<h4>
  
- Passionate about Web Development.
+ <h3> Passionate about Web Development. </h3>
  
- #### How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriol-purull-urrea-23a447115/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purullator)
 
  #### <h2>🌱TECH Stack</h2> 
  <span align="">
@@ -95,7 +94,7 @@
   </a>
 </span>
  
- #### <h2> IDE's that I know </h2>
+ #### <h2> 🙌 IDE's that I know </h2>
    <span align="">
   <a target="_blank" href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
@@ -112,7 +111,7 @@
   </a>
 </span>
  
- #### <h2> ⚡ Focused on mastering </h2> 
+ #### <h2> 🎓 Focused on mastering </h2> 
  
    <span align="">
   <a target="_blank" href="https://www.php.net/">
@@ -131,7 +130,10 @@
 </span>
  
  #### <h2> ⚡ Some Apps that I developed </h2> https://forkify-purull.netlify.app | https://mapty-app-purull.netlify.app | https://banksiteapp-purull.netlify.app | https://demoappreact-purull.netlify.app/
-  #### <h3> ⚡ Devoted on worshipping FULL STACK DEVELOPMENT </h3>
+ 
+   #### <h2> 📩 How to reach me </h2> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriol-purull-urrea-23a447115/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purullator) 
+ 
+
 <hr>
 
 <div align="center">
