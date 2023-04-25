@@ -6,7 +6,7 @@
 
 
  #### <h2>🌱TECH Stack</h2> [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,postman,php,laravel&perline=8)](https://skillicons.dev)
- #### <h2>🧑‍💻 Languages & Frameworks I'm learning </h2> [![My Skills](https://skillicons.dev/icons?i=ts,vue,nodejs,redux&perline=4)](https://skillicons.dev)
+ #### <h2>🧑‍💻 Languages & Frameworks I'm learning </h2> [![My Skills](https://skillicons.dev/icons?i=ts,vue,nodejs,redux,cpp&perline=5)](https://skillicons.dev)
  #### <h2>👨‍💻 Basic Knowledge of </h2> [![My Skills](https://skillicons.dev/icons?i=git,github,mysql&perline=7)](https://skillicons.dev)  ![npm](https://camo.githubusercontent.com/963b1016522e3e37db3a486bd5bed244bdbb7ee52ae2fb43be359fdf5e1a6ecd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e706d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
  #### <h2> IDE's that I know </h2> [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse&perline=5)](https://skillicons.dev)
  #### <h2> ⚡ Focused on mastering </h2> [![My Skills](https://skillicons.dev/icons?i=php&perline=1)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=laravel&perline=1)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
