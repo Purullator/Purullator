@@ -25,16 +25,6 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
 </span> 
- <span align="">
-  <a target="_blank" href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-</span>
-  <span align="">
-  <a target="_blank" href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-</span>
   <span align="">
   <a target="_blank" href="https://www.php.net/">
     <img src="https://skillicons.dev/icons?i=php" />
@@ -47,6 +37,11 @@
 </span>
 
  #### <h2>🧑‍💻 Languages & Frameworks I'm learning </h2>
+  <span align="">
+  <a target="_blank" href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</span>
  <span align="">
   <a target="_blank" href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=ts" />
@@ -87,6 +82,11 @@
   <span align="">
   <a target="_blank" href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</span>
+  <span align="">
+  <a target="_blank" href="https://www.postman.com/">
+    <img src="https://skillicons.dev/icons?i=postman" />
   </a>
 </span>
   <span align="">
