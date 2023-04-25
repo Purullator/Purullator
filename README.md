@@ -111,7 +111,7 @@
   </a>
 </span>
  
- #### <h2> 🎓 Focused on mastering </h2> 
+ #### <h2> 🧑‍💻 Focused on mastering </h2> 
  
    <span align="">
   <a target="_blank" href="https://www.php.net/">
