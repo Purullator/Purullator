@@ -11,7 +11,7 @@
  #### <h2> IDE's that I know </h2> [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,eclipse&perline=5)](https://skillicons.dev)
  #### <h2> ⚡ Focused on mastering </h2> [![My Skills](https://skillicons.dev/icons?i=php&perline=1)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=laravel&perline=1)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
  #### <h2> ⚡ Some Apps that I developed </h2> https://forkify-purull.netlify.app | https://mapty-app-purull.netlify.app | https://banksiteapp-purull.netlify.app | https://demoappreact-purull.netlify.app/
-  #### <h3> ⚡ Devoted on workshipping FULL STACK DEVELOPMENT, BACKEND DEV instead of the Lord.</h3>
+  #### <h3> ⚡ Devoted on workshipping FULL STACK DEVELOPMENT, focusing on BACKEND DEV</h3>
 <hr>
 
 <div align="center">
