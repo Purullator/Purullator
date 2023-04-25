@@ -131,7 +131,7 @@
 </span>
  
  #### <h2> ⚡ Some Apps that I developed </h2> https://forkify-purull.netlify.app | https://mapty-app-purull.netlify.app | https://banksiteapp-purull.netlify.app | https://demoappreact-purull.netlify.app/
-  #### <h3> ⚡ Devoted on worshipping FULL STACK DEVELOPMENT, focusing on BACKEND DEV</h3>
+  #### <h3> ⚡ Devoted on worshipping FULL STACK DEVELOPMENT </h3>
 <hr>
 
 <div align="center">
