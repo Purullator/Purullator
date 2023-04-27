@@ -129,25 +129,24 @@
   </a>
 </span>
  
- #### <h2> ⚡ Some Apps that I developed </h2> https://forkify-purull.netlify.app | https://mapty-app-purull.netlify.app | https://banksiteapp-purull.netlify.app | https://demoappreact-purull.netlify.app/
+ #### <h2> ⚡ Some Apps that I developed </h2> https://forkify-purull.netlify.app | https://mapty-app-purull.netlify.app | https://banksiteapp-purull.netlify.app | https://demoappreact-purull.netlify.app/ | http://purullator.atwebpages.com/
  
-   #### <h2> 📩 How to reach me </h2> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriol-purull-urrea-23a447115/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purullator) 
+<div align="">
  
-#### <h2><img src="https://skillicons.dev/icons?i=github" /> Stats</h2>
- 
-<div align="center">
+ <h2><img src="https://skillicons.dev/icons?i=github" /> Streak</h2>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Purullator&theme=dark)](https://git.io/streak-stats)
  &nbsp;
+ 
+ <h2><img src="https://skillicons.dev/icons?i=github" /> Stats</h2>
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purullator&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purullator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
- 
 </div>
  
- <hr>
+  #### <h2> 📩 How to reach me </h2> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriol-purull-urrea-23a447115/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purullator) 
  
 
 
