@@ -5,11 +5,11 @@
   #### <h3> ⚡ Some of the  Apps I developed </h3> 
 
 
- <span><a href="https://forkify-purull.netlify.app">Forkify App</a></span> |
-  <span><a href="https://mapty-app-purull.netlify.app">Mapty Geolocation App</a></li></span> |
-  <span><a href="https://banksiteapp-purull.netlify.app">Bank-Site facade App</a></span> |
-  <span><a href="https://demoappreact-purull.netlify.app/">React Expenses App</a></span> |
-  <span><a href="http://purullator.atwebpages.com/">CIFOplaces Social App</a></span>
+ <span><a href="https://forkify-purull.netlify.app">Forkify</a></span> |
+  <span><a href="https://mapty-app-purull.netlify.app">Mapty Geolocation</a></li></span> |
+  <span><a href="https://banksiteapp-purull.netlify.app">Bank-Site facade</a></span> |
+  <span><a href="https://demoappreact-purull.netlify.app/">React Expenses Schedule</a></span> |
+  <span><a href="http://purullator.atwebpages.com/">CIFOplaces Social Network</a></span>
 
 
  
