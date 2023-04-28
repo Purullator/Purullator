@@ -133,14 +133,14 @@
  
 <div align="">
  
- <h2><img src="https://skillicons.dev/icons?i=github" /> Streak</h2>
+ <h2><img src="https://skillicons.dev/icons?i=github" /> Streak & Top-Languages</h2>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Purullator&theme=dark)](https://git.io/streak-stats)
  &nbsp;
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purullator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- <h2><img src="https://skillicons.dev/icons?i=github" /> Top Languages</h2>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purullator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
  
