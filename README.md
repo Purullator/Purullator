@@ -133,7 +133,7 @@
  
 <div align="">
  
- <h2><img src="https://skillicons.dev/icons?i=github" /> Streak & Top-Languages</h2>
+ <h2><img src="https://skillicons.dev/icons?i=github" /> STATS</h2>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Purullator&theme=dark)](https://git.io/streak-stats)
  &nbsp;
