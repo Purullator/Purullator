@@ -4,37 +4,13 @@
  
   #### <h2> ⚡ Some of the  Apps I developed </h2> 
 
-<div class="link-container">
-  <div class="link-row">
-    <a href="https://forkify-purull.netlify.app">Forkify App</a>
-    <a href="https://mapty-app-purull.netlify.app">Mapty App</a>
-    <a href="https://banksiteapp-purull.netlify.app">Bank Site App</a>
-  </div>
-  <div class="link-row">
-    <a href="https://demoappreact-purull.netlify.app/">Demo React App</a>
-    <a href="http://purullator.atwebpages.com/">Purullator Website</a>
-  </div>
-</div>
 
-<style>
- 
-  .link-row {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 20px;
-  }
-  @media (max-width: 768px) {
-    .link-container {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
-    .link-row {
-      flex-basis: calc(33.33% - 10px);
-    }
-  }
- 
-</style>
+ <span><a href="https://forkify-purull.netlify.app">Forkify App</a></span> |
+  <span><a href="https://mapty-app-purull.netlify.app">Mapty App</a></li></span> |
+  <span><a href="https://banksiteapp-purull.netlify.app">Bank Site App</a></span> |
+  <span><a href="https://demoappreact-purull.netlify.app/">Demo React App</a></span> |
+  <span><a href="http://purullator.atwebpages.com/">CIFOplaces Social App</a></span>
+
 
  
  #### <h2>🌱TECH Stack</h2> 
