@@ -138,7 +138,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Purullator&theme=dark)](https://git.io/streak-stats)
  &nbsp;
  
- <h2><img src="https://skillicons.dev/icons?i=github" /> Stats</h2>
+ <h2><img src="https://skillicons.dev/icons?i=github" /> Top Languages</h2>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purullator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
