@@ -1,8 +1,8 @@
 <h1>Welcome, I'm Oriol Purull 👋<h4>
  
- <h3> Passionate about Web Development. </h3>
+ <h4> Passionate about Web Development. </h4>
  
-  #### <h2> ⚡ Some of the  Apps I developed </h2> 
+  #### <h3> ⚡ Some of the  Apps I developed </h3> 
 
 
  <span><a href="https://forkify-purull.netlify.app">Forkify App</a></span> |
