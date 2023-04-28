@@ -2,7 +2,6 @@
  
  <h3> Passionate about Web Development. </h3>
  
-
  #### <h2>🌱TECH Stack</h2> 
  <span align="">
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
