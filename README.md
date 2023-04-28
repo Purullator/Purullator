@@ -2,6 +2,15 @@
  
  <h3> Passionate about Web Development. </h3>
  
+  #### <h2> ⚡ Some of the  Apps I developed </h2> 
+ <ul>
+  <li><a href="https://forkify-purull.netlify.app">Forkify App</a></li>
+  <li><a href="https://mapty-app-purull.netlify.app">Mapty Geolocation App</a></li>
+  <li><a href="https://banksiteapp-purull.netlify.app">Bank Site App</a></li>
+  <li><a href="https://demoappreact-purull.netlify.app/">React Expenses App</a></li>
+  <li><a href="http://purullator.atwebpages.com/">CIFOplaces Website</a></li>
+</ul>
+ 
  #### <h2>🌱TECH Stack</h2> 
  <span align="">
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
@@ -127,8 +136,6 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </span>
- 
- #### <h2> ⚡ Some Apps that I developed </h2> https://forkify-purull.netlify.app | https://mapty-app-purull.netlify.app | https://banksiteapp-purull.netlify.app | https://demoappreact-purull.netlify.app/ | http://purullator.atwebpages.com/
  
 <div align="">
  
