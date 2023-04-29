@@ -8,7 +8,6 @@
  <span><a href="https://forkify-purull.netlify.app">Forkify</a></span> |
   <span><a href="https://mapty-app-purull.netlify.app">Mapty Geolocation</a></li></span> |
   <span><a href="https://banksiteapp-purull.netlify.app">Bank-Site facade</a></span> |
-  <span><a href="https://demoappreact-purull.netlify.app/">React Expenses Schedule</a></span> |
   <span><a href="https://cifoplaces.purullworld.com/">CIFOplaces SN</a></span>
 
 
