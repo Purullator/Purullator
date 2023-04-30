@@ -51,11 +51,6 @@
   </a>
 </span>
  <span align="">
-  <a target="_blank" href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-</span> 
- <span align="">
   <a target="_blank" href="https://vuejs.org/">
     <img src="https://skillicons.dev/icons?i=vue" />
   </a>
@@ -70,6 +65,11 @@
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
 </span>
+  <span align="">
+  <a target="_blank" href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+</span> 
   <!-- <span align="">
    <a target="_blank" href="https://isocpp.org/">
     <img src="https://skillicons.dev/icons?i=cpp" />
