@@ -104,7 +104,7 @@
 </span>
 
  
- #### <h2> 🙌 IDE's that I know </h2>
+ #### <h2> 💻 IDE's </h2>
    <span align="">
   <a target="_blank" href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
