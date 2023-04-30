@@ -141,7 +141,7 @@
  
 <div align="">
  
- <h2><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> stats</h2>
+ <h2>📊 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> stats</h2>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Purullator&theme=dark)](https://git.io/streak-stats)
  &nbsp;
