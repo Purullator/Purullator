@@ -99,7 +99,7 @@
 </span>
   <span align="">
   <a target="_blank" href="https://www.npmjs.com/">
-    <img src="https://camo.githubusercontent.com/963b1016522e3e37db3a486bd5bed244bdbb7ee52ae2fb43be359fdf5e1a6ecd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e706d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   </a>
 </span>
 
