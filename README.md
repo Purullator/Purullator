@@ -70,11 +70,11 @@
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
 </span>
-  <span align="">
-  <a target="_blank" href="https://isocpp.org/">
+  <!-- <span align="">
+   <a target="_blank" href="https://isocpp.org/">
     <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
-</span>
+</span> -->
  
  #### <h2>👨‍💻 Basic Knowledge of </h2> 
   <span align="">
