@@ -102,6 +102,7 @@
     <img src="https://camo.githubusercontent.com/963b1016522e3e37db3a486bd5bed244bdbb7ee52ae2fb43be359fdf5e1a6ecd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6e706d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
   </a>
 </span>
+
  
  #### <h2> 🙌 IDE's that I know </h2>
    <span align="">
@@ -140,13 +141,11 @@
  
 <div align="">
  
- <h2><img src="https://skillicons.dev/icons?i=github" /> STATS</h2>
+ <h2><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> stats</h2>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Purullator&theme=dark)](https://git.io/streak-stats)
  &nbsp;
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purullator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
 
 
 </div>
