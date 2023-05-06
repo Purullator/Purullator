@@ -38,16 +38,16 @@
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
 </span>
-  <span align="">
-  <a target="_blank" href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-</span>
 
  #### <h2>🧑‍💻 Languages & Frameworks I'm learning </h2>
   <span align="">
   <a target="_blank" href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</span>
+  <span align="">
+  <a target="_blank" href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" />
   </a>
 </span>
  <span align="">
@@ -70,6 +70,7 @@
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
 </span> 
+
  
  #### <h2>👨‍💻 Basic Knowledge of </h2> 
   <span align="">
