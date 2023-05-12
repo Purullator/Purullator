@@ -100,8 +100,6 @@
   </a>
 </span>
  
-
- 
  #### <h2> 💻 IDE's </h2>
    <span align="">
   <a target="_blank" href="https://code.visualstudio.com/">
