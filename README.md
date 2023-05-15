@@ -124,7 +124,7 @@
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
 </span>
-  <span align="">
+  <span>
   <a target="_blank" href="https://laravel.com/">
     <img src="https://skillicons.dev/icons?i=laravel" />
   </a>
@@ -135,7 +135,7 @@
   </a>
 </span>
  
-<div align="">
+<div>
  
  <h2>📊 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> stats</h2>
  
