@@ -4,15 +4,12 @@
  
   #### <h3>⚡ Some of the  Apps I developed </h3> 
 
-
  <span><a href="https://forkify-purull.netlify.app">Forkify</a></span> |
   <span><a href="https://mapty-app-purull.netlify.app">Mapty</a></li></span> |
   <span><a href="https://banksiteapp-purull.netlify.app">Bankist SPA facade</a></span> |
   <span><a href="https://cifoplaces.purullworld.com/">CIFOplaces SN</a></span> |
  <span><a href="https://reactfoodshopcart.netlify.app">ReactFood ShopCart facade</a></span>
 
-
- 
  #### <h2>🌱TECH Stack</h2> 
  <span align="">
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
@@ -147,7 +144,3 @@
  
   #### <h2> 📩 How to reach me </h2> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriol-purull-urrea-23a447115/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purullator) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/@Purullator) 
  
-
-
-
-
