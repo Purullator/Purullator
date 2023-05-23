@@ -114,7 +114,6 @@
 </span>
  
  #### <h2> 🧑‍💻 Focused on mastering </h2> 
- 
    <span align="">
   <a target="_blank" href="https://www.php.net/">
     <img src="https://skillicons.dev/icons?i=php" />
@@ -130,7 +129,6 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </span>
- 
 <div>
  
  <h2>📊 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> stats</h2>
