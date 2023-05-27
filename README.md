@@ -1,4 +1,5 @@
 <h1>Welcome, I'm Oriol Purull 👋<h4>
+ 
  <h4> Passionate about Web Development. </h4>
  
   #### <h3>⚡ Some of the  Apps I developed </h3> 
