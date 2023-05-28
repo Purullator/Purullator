@@ -67,7 +67,8 @@
   <a target="_blank" href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
-</span> 
+</span>
+ 
 
  #### <h2>👨‍💻 Basic Knowledge of </h2> 
   <span align="">
