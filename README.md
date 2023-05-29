@@ -68,7 +68,6 @@
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
 </span>
- 
 
  #### <h2>👨‍💻 Basic Knowledge of </h2> 
   <span align="">
