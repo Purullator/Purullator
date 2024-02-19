@@ -1,16 +1,19 @@
 <h1>Welcome, I'm Oriol Purull 👋<h4>
  
  <h4> Passionate about Web Development. </h4>
+
+ #### <h2>🌱TECH Stack</h2>
  
-  #### <h3>⚡ Some of the  Apps I developed </h3> 
-
- <span><a href="https://forkify-purull.netlify.app">Forkify</a></span> |
-  <span><a href="https://mapty-app-purull.netlify.app">Mapty</a></li></span> |
-  <span><a href="https://banksiteapp-purull.netlify.app">Bankist SPA</a></span> |
-  <span><a href="https://cifoplaces.purullworld.com/">CIFOplaces SN</a></span> |
- <span><a href="https://reactfoodshopcart.netlify.app">ReactFood ShopCart</a></span>
-
- #### <h2>🌱TECH Stack</h2> 
+   <span align="">
+  <a target="_blank" href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</span>
+   <span>
+  <a target="_blank" href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+</span>
  <span align="">
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://skillicons.dev/icons?i=html" />
@@ -38,16 +41,7 @@
 </span>
 
  #### <h2>🧑‍💻 Languages & Frameworks I'm learning </h2>
-  <span align="">
-  <a target="_blank" href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-</span>
-  <span align="">
-  <a target="_blank" href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-</span>
+
  <span align="">
   <a target="_blank" href="https://vuejs.org/">
     <img src="https://skillicons.dev/icons?i=vue" />
