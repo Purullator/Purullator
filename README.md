@@ -63,7 +63,6 @@
   </a>
 </span>
  
-
  #### <h2>👨‍💻 Basic Knowledge of </h2> 
   <span align="">
   <a target="_blank" href="https://git-scm.com/">
