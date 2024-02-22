@@ -15,6 +15,11 @@
   </a>
 </span>
  <span align="">
+  <a target="_blank" href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+</span>
+ <span align="">
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
@@ -39,6 +44,7 @@
     <img src="https://skillicons.dev/icons?i=php" />
   </a>
 </span>
+
 
  #### <h2>🧑‍💻 Languages & Frameworks I'm learning </h2>
 
