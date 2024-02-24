@@ -4,7 +4,7 @@
 
  #### <h2>🌱TECH Stack</h2>
  
-   <span align="">
+   <span>
   <a target="_blank" href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
