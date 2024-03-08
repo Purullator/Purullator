@@ -67,6 +67,11 @@
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
 </span>
+  <span align="">
+  <a target="_blank" href="https://redis.io/">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+</span>
  
  #### <h2>👨‍💻 Basic Knowledge of </h2> 
   <span align="">
