@@ -116,24 +116,7 @@
     <img src="https://skillicons.dev/icons?i=eclipse" />
   </a>
 </span>
- 
- #### <h2> 🧑‍💻 Focused on mastering </h2> 
-   <span align="">
-  <a target="_blank" href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
-</span>
-  <span>
-  <a target="_blank" href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-</span>
-  <span align="">
-  <a target="_blank" href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-</span>
-<div>
+
  
  <h2>📊 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> stats</h2>
  
