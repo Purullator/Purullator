@@ -107,11 +107,6 @@
   </a>
 </span>
   <span align="">
-  <a target="_blank" href="https://en.wikipedia.org/wiki/Visual_Studio">
-    <img src="https://skillicons.dev/icons?i=visualstudio" />
-  </a>
-</span>
-  <span align="">
   <a target="_blank" href="https://eclipseide.org/">
     <img src="https://skillicons.dev/icons?i=eclipse" />
   </a>
