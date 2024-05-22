@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Oriol Purull 👋<h4>
+<h1>Oriol Purull 👋<h4>
  
  <h4> Passionate about Web Development. </h4>
 
