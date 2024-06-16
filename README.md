@@ -6,11 +6,11 @@
  
  <span>
   <span>
-  <a target="_blank" href="https://react.dev/">
+  <a target="_blank" href="https://docs.djangoproject.com/en/5.0/">
     <img src="https://skillicons.dev/icons?i=django" />
   </a>
 </span>
-  <a target="_blank" href="https://react.dev/">
+  <a target="_blank" href="https://docs.python.org/3/">
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </span>
