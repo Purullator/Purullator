@@ -4,6 +4,16 @@
 
  #### <h2>🌱TECH Stack</h2>
  
+ <span>
+  <span>
+  <a target="_blank" href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=django" />
+  </a>
+</span>
+  <a target="_blank" href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</span>
    <span>
   <a target="_blank" href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" />
