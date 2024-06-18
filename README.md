@@ -4,10 +4,7 @@
 
  #### <h2>🌱TECH Stack</h2>
  
- <span>
-  <span>
-  <a target="_blank" href="https://docs.djangoproject.com/en/5.0/"><img src="https://skillicons.dev/icons?i=django" /></a>
-  </span><a target="_blank" href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" /></a></span>
+ 
   <span><a target="_blank" href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></span>
   <span><a target="_blank" href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a></span>
   <span align=""><a target="_blank" href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a></span>
@@ -18,8 +15,11 @@
   <span align=""><a target="_blank" href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a></span>
   <span align=""><a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a>
 
- #### <h2>🧑‍💻 Languages & Frameworks I'm learning </h2>
+ #### <h2> </h2>
 
+  <span>
+  <a target="_blank" href="https://docs.djangoproject.com/en/5.0/"><img src="https://skillicons.dev/icons?i=django" /></a>
+  </span><span><a target="_blank" href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" /></a></span>
 </span>
   <span align="">
   <a target="_blank" href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
@@ -33,8 +33,16 @@
   <span align="">
   <a target="_blank" href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" /></a>
 </span>
+</span>
+  <span align="">
+  <a target="_blank" href="https://docs.aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+</span>
+</span>
+  <span align="">
+  <a target="_blank" href="https://firebase.google.com/docs/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+</span>
  
- #### <h2>👨‍💻Knowledge of </h2> 
+ #### <h2>Knowledge of </h2> 
   <span align="">
   <a target="_blank" href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
 </span>
@@ -50,6 +58,7 @@
   <span align="">
   <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 </span>
+
  
  #### <h2> 💻 IDE's </h2>
    <span align="">
