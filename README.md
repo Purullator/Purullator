@@ -6,120 +6,47 @@
  
  <span>
   <span>
-  <a target="_blank" href="https://docs.djangoproject.com/en/5.0/">
-    <img src="https://skillicons.dev/icons?i=django" />
-  </a>
-</span>
-  <a target="_blank" href="https://docs.python.org/3/">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</span>
-   <span>
-  <a target="_blank" href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-</span>
-   <span>
-  <a target="_blank" href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" />
-  </a>
-</span>
- <span align="">
-  <a target="_blank" href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-</span>
- <span align="">
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-</span>
-  <span align="">
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/CSS">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-</span>
-  <span align="">
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/javascript">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-</span>
-  <span align="">
-  <a target="_blank" href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>
-</span> 
-  <span align="">
-  <a target="_blank" href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" />
-  </a>
-</span>
+  <a target="_blank" href="https://docs.djangoproject.com/en/5.0/"><img src="https://skillicons.dev/icons?i=django" /></a></span><a target="_blank" href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" /></a></span><span><a target="_blank" href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></span><span><a target="_blank" href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a></span><span align=""><a target="_blank" href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a></span><span align=""><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" /></a></span><span align=""><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/CSS"><img src="https://skillicons.dev/icons?i=css" /></a></span><span align=""><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/javascript"><img src="https://skillicons.dev/icons?i=js" /></a></span><span align=""><a target="_blank" href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a></span> <span align=""><a target="_blank" href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a></span> <span align=""><a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a>
 
  #### <h2>🧑‍💻 Languages & Frameworks I'm learning </h2>
 
- <span align="">
-  <a target="_blank" href="https://vuejs.org/">
-    <img src="https://skillicons.dev/icons?i=vue" />
-  </a>
 </span>
   <span align="">
-  <a target="_blank" href="https://nodejs.org/en">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
+  <a target="_blank" href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 </span>
   <span align="">
-  <a target="_blank" href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" />
-  </a>
+  <a target="_blank" href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
 </span>
   <span align="">
-  <a target="_blank" href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
+  <a target="_blank" href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
 </span>
   <span align="">
-  <a target="_blank" href="https://redis.io/">
-    <img src="https://skillicons.dev/icons?i=redis" />
-  </a>
+  <a target="_blank" href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" /></a>
 </span>
  
- #### <h2>👨‍💻 Basic Knowledge of </h2> 
+ #### <h2>👨‍💻Knowledge of </h2> 
   <span align="">
-  <a target="_blank" href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
+  <a target="_blank" href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
 </span>
   <span align="">
-  <a target="_blank" href="https://github.com">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+  <a target="_blank" href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
 </span>
   <span align="">
-  <a target="_blank" href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
+  <a target="_blank" href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 </span>
   <span align="">
-  <a target="_blank" href="https://www.postman.com/">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
+  <a target="_blank" href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
 </span>
   <span align="">
-  <a target="_blank" href="https://www.npmjs.com/">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  </a>
+  <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 </span>
  
  #### <h2> 💻 IDE's </h2>
    <span align="">
-  <a target="_blank" href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
+  <a target="_blank" href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </span>
   <span align="">
-  <a target="_blank" href="https://eclipseide.org/">
-    <img src="https://skillicons.dev/icons?i=eclipse" />
-  </a>
+  <a target="_blank" href="https://eclipseide.org/"><img src="https://skillicons.dev/icons?i=eclipse" /></a>
 </span>
 
  
