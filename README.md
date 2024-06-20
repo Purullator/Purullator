@@ -6,6 +6,7 @@
  
  
   <span><a target="_blank" href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></span>
+  <span align=""><a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a></span>
   <span><a target="_blank" href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a></span>
   <span align=""><a target="_blank" href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a></span>
   <span align=""><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" /></a></span>
@@ -13,8 +14,7 @@
   <span align=""><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/javascript"><img src="https://skillicons.dev/icons?i=js" /></a></span>
   <span align=""><a target="_blank" href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a></span>
   <span align=""><a target="_blank" href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a></span>
-  <span align=""><a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a>
-
+  
  #### <h2> </h2>
 
   <span>
