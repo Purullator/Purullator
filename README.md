@@ -5,7 +5,6 @@
 
  #### <h2>🌱TECH Stack</h2>
  
- 
   <span><a target="_blank" href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></span>
   <span align=""><a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a></span>
   <span><a target="_blank" href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a></span>
