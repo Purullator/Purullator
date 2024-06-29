@@ -3,7 +3,6 @@
  <h4> Passionate about Web Development. </h4>
 <h4> Full-Stack Web Developer. </h4>
 
-
  #### <h2>🌱TECH Stack</h2>
  
   <span><a target="_blank" href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></span>
