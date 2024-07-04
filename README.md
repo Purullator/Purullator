@@ -16,7 +16,10 @@
   <span align=""><a target="_blank" href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a></span>
   
  #### <h2> </h2>
-
+ 
+<span align="">
+  <a target="_blank" href="https://angular.io/guide/what-is-angular"><img src="https://skillicons.dev/icons?i=angular" /></a>
+</span>
   <span>
   <a target="_blank" href="https://docs.djangoproject.com/en/5.0/"><img src="https://skillicons.dev/icons?i=django" /></a>
   </span><span><a target="_blank" href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" /></a></span>
