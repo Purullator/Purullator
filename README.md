@@ -1,5 +1,4 @@
 <h1>Oriol Purull 👋<h4>
-
  
  <h4> Passionate about Web Development. </h4>
 <h4> Full-Stack Web Developer. </h4>
