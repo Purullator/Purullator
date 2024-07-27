@@ -3,7 +3,7 @@
  <h4> Passionate about Software Development. </h4>
 <h4> Full-Stack Web Developer. </h4>
 
- #### <h2>🌱TECH Stack | Working Experience with</h2>
+ #### <h2>🌱TECH Stack | Working Experience</h2>
  
   <span><a target="_blank" href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></span>
   <span align=""><a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a></span>
