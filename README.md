@@ -63,15 +63,6 @@
 </span>
 
  
- #### <h2> 💻 IDE's </h2>
-   <span align="">
-  <a target="_blank" href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-</span>
-  <span align="">
-  <a target="_blank" href="https://eclipseide.org/"><img src="https://skillicons.dev/icons?i=eclipse" /></a>
-</span>
-
- 
  <h2>📊 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> stats</h2>
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Purullator&theme=dark)](https://git.io/streak-stats)
