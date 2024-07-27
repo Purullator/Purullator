@@ -13,6 +13,7 @@
   <span align=""><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/CSS"><img src="https://skillicons.dev/icons?i=css" /></a></span>
   <span align=""><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/javascript"><img src="https://skillicons.dev/icons?i=js" /></a></span>
   <span align=""><a target="_blank" href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a></span>
+  <span align=""><a target="_blank" href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a></span>
   <span align=""><a target="_blank" href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" /></a></span>
   
  #### <h2> </h2>
