@@ -7,7 +7,9 @@
  #### <h2>🌱TECH Stack | Working Experience</h2>
  
   <span><a target="_blank" href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a></span>
-  <span align=""><a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a></span>
+ <span align="">
+  <a target="_blank" href="https://angular.io/guide/what-is-angular"><img src="https://skillicons.dev/icons?i=angular" /></a>
+ </span>
   <span><a target="_blank" href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" /></a></span>
   <span align=""><a target="_blank" href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a></span>
   <span align=""><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://skillicons.dev/icons?i=html" /></a></span>
@@ -19,9 +21,8 @@
   
  #### <h2> </h2>
  
-<span align="">
-  <a target="_blank" href="https://angular.io/guide/what-is-angular"><img src="https://skillicons.dev/icons?i=angular" /></a>
-</span>
+
+ <span align=""><a target="_blank" href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" /></a></span>
   <span>
   <a target="_blank" href="https://docs.djangoproject.com/en/5.0/"><img src="https://skillicons.dev/icons?i=django" /></a>
   </span><span><a target="_blank" href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python" /></a></span>
