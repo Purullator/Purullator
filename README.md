@@ -24,14 +24,7 @@
   <span align="">
   <a target="_blank" href="https://docs.aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
 </span>
-<span align="">
-  <a target="_blank" href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" /></a>
-</span>
-</span>
-</span>
-  <span align="">
-  <a target="_blank" href="https://firebase.google.com/docs/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
-</span>
+
   
   
  #### <h2> </h2>
@@ -62,6 +55,14 @@
 </span>
   <span align="">
   <a target="_blank" href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
+</span>
+<span align="">
+  <a target="_blank" href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" /></a>
+</span>
+</span>
+</span>
+  <span align="">
+  <a target="_blank" href="https://firebase.google.com/docs/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
 </span>
   <span align="">
   <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
