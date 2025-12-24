@@ -69,12 +69,6 @@
 </span>
 
  
- <h2>📊 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> stats</h2>
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Purullator)](https://git.io/streak-stats)
- &nbsp;
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Purullator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
 </div>
  
   #### <h2> 📩 How to reach me </h2> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oriol-purull-urrea-23a447115/) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/@Purullator) 
